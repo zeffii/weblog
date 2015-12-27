@@ -7,3 +7,7 @@ Flocking is a cool web based realtime SC inspired environment:
 http://flockingjs.org/next/demos/playground/live/#granulator
 
 I'd like to think something like this can be done for sverchok/grasshopper/dynamo like apps.
+
+**Thought 2 - 27 Dec 2015**
+
+i'm tired of it all.
