@@ -11,3 +11,7 @@ I'd like to think something like this can be done for sverchok/grasshopper/dynam
 **Thought 2 - 27 Dec 2015**
 
 i'm tired of it all.
+
+**Thought 3 - 28 Dec 2015**
+
+today is no different.
