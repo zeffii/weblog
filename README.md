@@ -18,4 +18,4 @@ today is no different.
 
 **Thought 4 - 2 Jan 2016**
 
-"The Quiet Earth" movie has cool intro music + visual
+"The Quiet Earth" movie has cool intro music + visual. Deep swelling pads.
