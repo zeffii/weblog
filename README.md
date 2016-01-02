@@ -15,3 +15,7 @@ i'm tired of it all.
 **Thought 3 - 28 Dec 2015**
 
 today is no different.
+
+**Thought 4 - 2 Jan 2016**
+
+"The Quiet Earth" movie has cool intro music + visual
