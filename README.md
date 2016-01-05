@@ -19,3 +19,27 @@ today is no different.
 **Thought 4 - 2 Jan 2016**
 
 "The Quiet Earth" movie has cool intro music + visual. Deep swelling pads.
+
+**Thought 5 - 6 jan 2016**
+
+```python
+import bpy
+
+def smart_bevel():
+
+    obj = bpy.context.active_object
+    spline = obj.data.splines.active
+
+    if spline.type in {'NURBS', 'POLY'}:
+        points = obj.data.splines.active.points
+        part = [True for i in points]
+        points.foreach_get("select", part)
+        
+        if not (part.count(True) == 1):
+            print('pick only one point')
+            return
+        else:
+            print('one point selected, go go go go !')
+
+smart_bevel()
+```
