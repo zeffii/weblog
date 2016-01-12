@@ -47,3 +47,7 @@ smart_bevel()
 **Thought 6 - 11 jan 2016**
 
 make todo. todo made: https://github.com/zeffii/weblog/issues/3
+
+**Thought 7 - 12 jan 2016**
+
+inverted vertex cols
