@@ -51,3 +51,7 @@ make todo. todo made: https://github.com/zeffii/weblog/issues/3
 **Thought 7 - 12 jan 2016**
 
 inverted vertex cols
+
+**Thought 8 - 16 jan 2016**
+
+ more people talking about bmesh boolean op = good
