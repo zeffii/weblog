@@ -55,3 +55,5 @@ inverted vertex cols
 **Thought 8 - 16 jan 2016**
 
  more people talking about bmesh boolean op = good
+ 
+ ...
