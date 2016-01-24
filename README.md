@@ -57,3 +57,7 @@ inverted vertex cols
  more people talking about bmesh boolean op = good
  
  ........
+ 
+ **Thought 9 - 24 jan 2016**
+ 
+The desktop machine died two days ago, more specifically the linux HD. Lukily anything that I value is backed up and it's probably time to say goodbye to the behemoth. (Carillon AC-1 audio computer - June 2007 - Jan 2016). So now i'm looking for a low spec / low power consumption machine to keep programming with optimization in mind.
