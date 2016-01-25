@@ -61,3 +61,7 @@ inverted vertex cols
  **Thought 9 - 24 jan 2016**
  
 The desktop machine died two days ago, more specifically the linux HD. Lukily anything that I value is backed up and it's probably time to say goodbye to the behemoth. (Carillon AC-1 audio computer - June 2007 - Jan 2016). So now i'm looking for a low spec / low power consumption machine to keep programming with optimization in mind.
+
+**Thought 10 - 25 jan 2016**
+
+modified the path structure of mesh_tinyCAD. now now longer has nested dir and a head dir called ` cad tools ` or whatever. GitHub still doesn't allow full control over filenames of the releases. so I can not foce the path to be a correct python path ( ie  `-` is discouraged in favour of `_` ) 
