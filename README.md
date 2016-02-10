@@ -65,3 +65,9 @@ The desktop machine died two days ago, more specifically the linux HD. Lukily an
 **Thought 10 - 25 jan 2016**
 
 modified the path structure of mesh_tinyCAD. now now longer has nested dir and a head dir called ` cad tools ` or whatever. GitHub still doesn't allow full control over filenames of the releases. so I can not foce the path to be a correct python path ( ie  `-` is discouraged in favour of `_` ) 
+
+------------------
+
+**10 feb wed**  
+
+http://www.gluco-wise.com/ - looks interesting, or is it just marketing hype. The statement that it requires no blood is awesome.
