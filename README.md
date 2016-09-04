@@ -71,3 +71,7 @@ modified the path structure of mesh_tinyCAD. now now longer has nested dir and a
 **10 feb wed**  
 
 http://www.gluco-wise.com/ - looks interesting, or is it just marketing hype. The statement that it requires no blood is awesome.
+
+**04 sept sun  - '16**
+
+nothing.
